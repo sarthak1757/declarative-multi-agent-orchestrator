@@ -1,1 +1,1 @@
-# declarative-multi-agent--orchestrator
+# declarative-multi-agent-orchestrator
